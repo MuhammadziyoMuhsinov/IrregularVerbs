@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_type_1"
+        android:title="infinitive"
+     />
+    <item
+        android:id="@+id/menu_type_2"
+        android:title="past"
+   />
+    <item
+        android:id="@+id/menu_type_3"
+        android:title="past participle"
+   />
+</menu>
